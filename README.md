@@ -8,7 +8,10 @@ Both players start with $10
 
 The difference between the dice roll scores is added to the winning player and subtracted from the losing player
 
-ie. 
+Continues until one player reaches $0 or $20 or Human decides to quit
+
+# Example 
+
 Human : 62
 
 Computer : 21
@@ -20,4 +23,4 @@ Human Score : $14
 Computer Score : $6
 
 
-Continues until one player reaches $0 or $20 or Human decides to quit
+
